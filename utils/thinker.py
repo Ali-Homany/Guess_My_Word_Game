@@ -1,5 +1,5 @@
-from word import Word_Manager
-import data
+from utils.word import Word_Manager
+import utils.data as data
 
 
 '''

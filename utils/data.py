@@ -1,5 +1,5 @@
 import os
-from word import  Word_Manager
+from utils.word import  Word_Manager
 
 '''
 The Data module serves as the manager of word datasets, who facilitates

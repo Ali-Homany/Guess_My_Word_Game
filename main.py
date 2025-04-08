@@ -1,5 +1,5 @@
-import data
-from thinker import Thinker
+import utils.data as data
+from utils.thinker import Thinker
 
 
 '''
