@@ -1,6 +1,6 @@
 import unittest
-from unittest.mock import patch, MagicMock, mock_open
-import data
+from unittest.mock import patch, mock_open
+import utils.data as data
 
 
 class TestData(unittest.TestCase):

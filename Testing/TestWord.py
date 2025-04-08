@@ -1,7 +1,7 @@
 import re
 import unittest
-from unittest.mock import patch, MagicMock, mock_open
-from word import Word_Manager
+from unittest.mock import patch
+from utils.word import Word_Manager
 
 
 class TestWordManager(unittest.TestCase):

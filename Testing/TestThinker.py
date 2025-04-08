@@ -1,6 +1,6 @@
 import unittest
-from unittest.mock import patch, MagicMock, mock_open
-from thinker import Thinker
+from unittest.mock import patch, MagicMock
+from utils.thinker import Thinker
 
 
 class TestThinker(unittest.TestCase):
